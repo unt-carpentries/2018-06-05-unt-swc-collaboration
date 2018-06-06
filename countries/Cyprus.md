@@ -9,6 +9,6 @@ Nicosia
 Greek and Turkish
 
 ## interesting trivia
-Halloumi is thier famous cheese
+Halloumi is their famous cheese
 
 
