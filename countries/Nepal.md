@@ -1,14 +1,7 @@
-##Nepal
-## population
+Capital: Kathmandu
 
+Official Language: Nepali
 
-## capital
+Trivia: Mt. Everest
 
- 
-## official language
-
-
-## interesting trivia
-
-
-
+Beautiful places to visit: Pokhra, Kathmandu, temples
