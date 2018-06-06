@@ -1,5 +1,5 @@
 ##India
-## ppulation
+## population
 1.324 Billion
 
 ## capital
