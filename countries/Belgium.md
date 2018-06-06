@@ -3,7 +3,7 @@
 
 
 ## capital
-
+Brussels
  
 ## official language
 
