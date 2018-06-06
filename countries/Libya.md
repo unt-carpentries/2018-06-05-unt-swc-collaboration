@@ -5,5 +5,5 @@
  Tripoli
 ## official language
 Arabic
-## interesting trivia
-C
+## interesting triva
+Libya is the fourth largest country in Africa
