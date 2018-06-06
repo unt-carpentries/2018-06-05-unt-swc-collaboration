@@ -9,6 +9,6 @@ Accra
 English
 
 ## interesting trivia
-
+The first black man to ever command a space ship was a Ghanaian
 
 
