@@ -1,7 +1,5 @@
 ##Libya
 ## population
-6,000,000
-
 
 ## capital
 Tripoli
@@ -10,4 +8,7 @@ Tripoli
 Didn't see this
 
 ## interesting trivia
-Can't say!
+Arabic
+
+## interesting trivia
+Libya is the fourth largest country in Africa
