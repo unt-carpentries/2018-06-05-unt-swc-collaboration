@@ -1,12 +1,9 @@
 ##Libya
 ## population
-6,293,253
-
+5
 ## capital
-Tripoli
- 
+Big City 
 ## official language
-Arabic
-
+Cool Words
 ## interesting trivia
-Libya is the fourth largest country in Africa
+This is Libya
