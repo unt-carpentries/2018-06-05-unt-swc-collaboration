@@ -1,11 +1,13 @@
 ##Libya
 ## population
-6,293,253
 
 ## capital
 Tripoli
  
 ## official language
+Didn't see this
+
+## interesting trivia
 Arabic
 
 ## interesting trivia
